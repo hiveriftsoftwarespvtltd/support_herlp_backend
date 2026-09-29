@@ -75,11 +75,11 @@ export class AuthService {
     }
 
     // Update last login timestamp
-    await this.usersService.updateLastLogin(user._id.toString());
+    await this.usersService.updateLastLogin((user._id as any).toString());
 
     // Generate JWT token (Persistent session with 365d TTL)
     const payload = {
-      sub: user._id.toString(),
+      sub: (user._id as any).toString(),
       email: user.email,
       name: user.name,
       role: user.role,
@@ -93,7 +93,7 @@ export class AuthService {
       data: {
         token,
         user: {
-          id: user._id.toString(),
+          id: (user._id as any).toString(),
           name: user.name,
           email: user.email,
           role: user.role,
@@ -110,7 +110,7 @@ export class AuthService {
     return {
       success: true,
       data: {
-        id: user._id.toString(),
+        id: (user._id as any).toString(),
         name: user.name,
         email: user.email,
         role: user.role,
