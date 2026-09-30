@@ -15,6 +15,10 @@ export class CreateBlogDto {
 
   @IsString()
   @IsOptional()
+  subtitle?: string;
+
+  @IsString()
+  @IsOptional()
   slug?: string;
 
   @IsString()
@@ -42,6 +46,10 @@ export class CreateBlogDto {
 
   @IsString()
   @IsOptional()
+  authorBio?: string;
+
+  @IsString()
+  @IsOptional()
   readTime?: string;
 
   @IsOptional()
@@ -59,6 +67,9 @@ export class CreateBlogDto {
   @IsOptional()
   status?: BlogStatus;
 
+  @IsOptional()
+  publishedAt?: any;
+
   @IsString()
   @IsOptional()
   metaTitle?: string;
@@ -66,4 +77,71 @@ export class CreateBlogDto {
   @IsString()
   @IsOptional()
   metaDescription?: string;
+
+  // --- SEO & Content Suite Enhancements ---
+  @IsString()
+  @IsOptional()
+  imageAltText?: string;
+
+  @IsOptional()
+  tableOfContents?: any;
+
+  @IsOptional()
+  internalLinks?: any;
+
+  @IsOptional()
+  externalLinks?: any;
+
+  @IsString()
+  @IsOptional()
+  schemaMarkup?: string;
+
+  @IsString()
+  @IsOptional()
+  ogTitle?: string;
+
+  @IsString()
+  @IsOptional()
+  ogDescription?: string;
+
+  @IsString()
+  @IsOptional()
+  ogImage?: string;
+
+  @IsString()
+  @IsOptional()
+  twitterCard?: string;
+
+  @IsString()
+  @IsOptional()
+  canonicalUrl?: string;
+
+  @IsOptional()
+  @Transform(({ value }) => {
+    if (value === 'false' || value === false) return false;
+    return true;
+  })
+  isRobotsIndex?: boolean;
+
+  @IsOptional()
+  @Transform(({ value }) => {
+    if (value === 'false' || value === false) return false;
+    return true;
+  })
+  isRobotsFollow?: boolean;
+
+  @IsOptional()
+  @Transform(({ value }) => {
+    if (value === 'false' || value === false) return false;
+    return true;
+  })
+  includeInSitemap?: boolean;
+
+  @IsOptional()
+  @Transform(({ value }) => Number(value) || 0.8)
+  sitemapPriority?: number;
+
+  @IsString()
+  @IsOptional()
+  sitemapChangeFreq?: string;
 }

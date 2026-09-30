@@ -1,0 +1,1198 @@
+{
+  "mainPage": {
+    "heroTitle": "OUR CORE SERVICES",
+    "heroSubtitle": "Avail High Quality and World Class Services at Affordable Prices",
+    "introHeading": "Tailored Accounting & Bookkeeping Solutions for Growing Businesses",
+    "introText": "Support Help offers a complete spectrum of bookkeeping, accounting, and financial management services. Our certified team works around the clock to provide accurate books, streamlined workflows, and real-time financial visibility.",
+    "cards": [
+      {
+        "title": "Complete Bookkeeping",
+        "slug": "bookkeeping",
+        "href": "/services/bookkeeping",
+        "icon": "/services/icon_bookkeeping.png",
+        "description": "We provide the best custom accounting services for all size of businesses with the help of our latest bookkeeping systems."
+      },
+      {
+        "title": "Accounting Services",
+        "slug": "accounting",
+        "href": "/services/accounting",
+        "icon": "/services/icon_accounting.png",
+        "description": "Professional and cost-effective services tailored to scale your business with ease."
+      },
+      {
+        "title": "Accounts Receivable",
+        "slug": "accounts-receivable",
+        "href": "/services/accounts-receivable",
+        "icon": "/services/icon_accounts-receivable.png",
+        "description": "Professional and cost-effective services tailored to scale your business with ease."
+      },
+      {
+        "title": "Accounts Payable",
+        "slug": "accounts-payable",
+        "href": "/services/accounts-payable",
+        "icon": "/services/icon_accounts-payable.png",
+        "description": "Professional and cost-effective services tailored to scale your business with ease."
+      },
+      {
+        "title": "Payroll Solution",
+        "slug": "payroll-management",
+        "href": "/services/payroll-management",
+        "icon": "/services/icon_payroll-management.png",
+        "description": "We can manage your complete payroll function by making use of the latest current payroll technology platforms."
+      },
+      {
+        "title": "Financial Reporting",
+        "slug": "financial-reporting",
+        "href": "/services/financial-reporting",
+        "icon": "/services/icon_financial-reporting.png",
+        "description": "Professional and cost-effective services tailored to scale your business with ease."
+      },
+      {
+        "title": "CPA Firms",
+        "slug": "cpa-firms",
+        "href": "/services/cpa-firms",
+        "icon": "/services/icon_cpa-firms.png",
+        "description": "Professional and cost-effective services tailored to scale your business with ease."
+      },
+      {
+        "title": "Virtual Services",
+        "slug": "virtual-accountant-bookkeeper",
+        "href": "/services/virtual-accountant-bookkeeper",
+        "icon": "/services/icon_virtual-accountant-bookkeeper.png",
+        "description": "Professional and cost-effective services tailored to scale your business with ease."
+      },
+      {
+        "title": "Back Office Operations",
+        "slug": "back-office-operations",
+        "href": "/services/back-office-operations",
+        "icon": "/services/icon_back-office-operations.png",
+        "description": "Professional and cost-effective services tailored to scale your business with ease."
+      },
+      {
+        "title": "Para-Planning Services",
+        "slug": "para-planning-services",
+        "href": "/services/para-planning-services",
+        "icon": "/services/icon_para-planning-services.png",
+        "description": "Professional and cost-effective services tailored to scale your business with ease."
+      },
+      {
+        "title": "Cleanup / Catch Up Work",
+        "slug": "cleanup-catchup-work",
+        "href": "/services/cleanup-catchup-work",
+        "icon": "/services/icon_cleanup-catchup-work.png",
+        "description": "Professional and cost-effective services tailored to scale your business with ease."
+      },
+      {
+        "title": "Migration Services",
+        "slug": "migration-services",
+        "href": "/services/migration-services",
+        "icon": "/services/icon_migration-services.png",
+        "description": "Professional and cost-effective services tailored to scale your business with ease."
+      },
+      {
+        "title": "QuickBooks to Zoho Migration",
+        "slug": "quickbooks-to-zoho-books-migration",
+        "href": "/quickbooks-to-zoho-books-migration",
+        "icon": "/services/icon_quickbooks-to-zoho-books-migration.png",
+        "description": "Professional and cost-effective services tailored to scale your business with ease."
+      }
+    ],
+    "outsourceSection": {
+      "title": "Outsource Bookkeeping Services to Us",
+      "paragraphs": [
+        "We provide customized bookkeeping services to businesses around the world to ensure that their ledgers remain accurate, up-to-date, and compliant.",
+        "Outsourcing your bookkeeping requirements to Support Help gives you access to a dedicated team of certified bookkeepers and accountants without the expenses of hiring in-house staff."
+      ],
+      "features": [
+        {
+          "title": "Complete Bookkeeping",
+          "desc": "End-to-end ledger management, reconciliations, and journal entries."
+        },
+        {
+          "title": "Accounts Receivable",
+          "desc": "Timely invoice generation, customer statements, and receipts tracking."
+        },
+        {
+          "title": "Accounts Payable",
+          "desc": "Vendor invoice verification, approvals, scheduling payments, and aging reports."
+        },
+        {
+          "title": "Debtor Management",
+          "desc": "Proactive cash collection workflows and bad debt minimization."
+        },
+        {
+          "title": "Tax/VAT Returns",
+          "desc": "Accurate filing preparation complying with state and federal guidelines."
+        },
+        {
+          "title": "Back Office Operations",
+          "desc": "Streamlined data entry, receipt categorization, and document management."
+        },
+        {
+          "title": "Customized Services",
+          "desc": "Tailored reporting, KPI dashboards, and specialized software integrations."
+        }
+      ]
+    }
+  },
+  "services": {
+    "bookkeeping": {
+      "slug": "bookkeeping",
+      "heroTitle": "COMPLETE BOOKKEEPING SERVICES",
+      "introParagraphs": [
+        "It has always been essential to maintaining an up-to-date record of financial transactions that are done through Bookkeeping Services. It also assists in measuring timely performance and taxation-related matters. We, at Support Help, understand the importance of being updated with accounting and provide our clients with the best bookkeeping services as per international standards. Our services will effectively help you in making important decisions related to your business process and progress.",
+        "We take pride in providing professional bookkeeping services very accurately and all our tasks are executed timely. You can choose from a list of customized bookkeeping services provided by Support Help depending on your specific requirements."
+      ],
+      "solutionsSection": {
+        "title": "Our Online Bookkeeping Services",
+        "leftCol": [
+          {
+            "title": "Accounts Receivable Services",
+            "desc": "With the help of our best accounts receivable services, your business can easily deal with integral financial functions that contribute to maintaining a good cash flow system. Our services are vibrant and help businesses grow stronger."
+          },
+          {
+            "title": "Accounts Payable Services",
+            "desc": "Our accounts payable services are completely focused on transforming the traditional payment activities of customers into the latest ones. We efficiently automate the processes related to transaction management, document management, duplication elimination, accurate resolutions, and disbursement-related services."
+          },
+          {
+            "title": "Bank Account Reconciliation",
+            "desc": "We offer professional account reconciliation services for medium and small-sized businesses, corporate houses along large organizations. By choosing us for reconciliation activities, you can avoid any sort of legal issues, prevent fraud, and focus solely on the major business goals."
+          }
+        ],
+        "rightCol": [
+          {
+            "title": "Invoicing Processing Services",
+            "desc": "Invoice processing is considered to be an integral task for any business, whether it is B2B or B2C. Incorrect invoice details and amounts can spoil the hard-earned goodwill and result in unsatisfied customers. We have years of experience in this field, and with that, we manage your invoice processing tasks with ease."
+          },
+          {
+            "title": "Manual Journal Entry Services",
+            "desc": "You can effectively save on the resources and concentrate more on your core competencies by opting for our manual journal entry services. Our experts will effectively handle your manual journal entries and take the load off your shoulders. Outsourcing this service to us would result in reduced errors and saving efforts."
+          },
+          {
+            "title": "VAT Returns",
+            "desc": "We are also involved in providing professional and cost-effective VAT return services that effectively cater to all the requirements of your organization. Almost every organization has to handle its Value Added Tax (VAT) and that would require a skilled workforce. Therefore, we help you in saving time, costs, and effort, when you build a client relationship with Support Help."
+          }
+        ]
+      },
+      "showcase1": {
+        "title": "Accounting Software Used by Support Help",
+        "description": "Contact us today for your business requirements related to bookkeeping services, and we ensure you with nothing else but satisfaction.",
+        "checklist": [
+          "Quicken",
+          "NetSuite Accounting",
+          "Peachtree",
+          "Simply Accounting",
+          "Sage Accounting",
+          "KashFlow (online accounting)",
+          "Epicor",
+          "Microsoft Navision",
+          "MYOB",
+          "QuickBooks (Online & Desktop)",
+          "Zoho Books",
+          "Xero"
+        ],
+        "note": "Select services Catch up Services Migration services CFO Services Other Services Full Time accounting services Part time accounting services Ad hoc services",
+        "image": "/services/bookkeeping_img_1.jpg"
+      },
+      "showcase2": {
+        "title": "Benefits of Opting for Our Bookkeeping Services",
+        "paragraphs": [
+          "We are continuously involved in providing top-tier bookkeeping and accounting services to clients across the globe to help them gain a competitive advantage.",
+          "Also, our services are very affordable; you can save up to 40% to 50% of your bookkeeping cost while freeing up valuable time to grow your business."
+        ],
+        "image": "/services/bookkeeping_img_2.jpg"
+      },
+      "whySection": {
+        "title": "Why Opt for Our Bookkeeping Assistant?",
+        "reasons": [
+          "Contact@Supporthelp.online",
+          "Different Versions of MYOB\\",
+          "Our qualified resources and strong infrastructural setup ensure quality delivery to our clients.",
+          "Our experts are proficient in providing various types of bookkeeping solutions, i.e.double-entry bookkeeping.",
+          "To ensure great quality each time, we employ the best industry practices, industry standards, and the latest methodologies."
+        ],
+        "closingNote": "Select services Catch up Services Migration services CFO Services Other Services Full Time accounting services Part time accounting services Ad hoc services"
+      }
+    },
+    "accounting": {
+      "slug": "accounting",
+      "heroTitle": "ACCOUNTING SERVICES",
+      "introParagraphs": [
+        "With changed time, business requirements have changed massively; the business environment has become quite challenging as well. Nowadays, most companies find it more preferable to outsource their accounting requirements to experienced outsourcing firms to save costs and valuable time. An outsourcing partner such as Support Help can contribute to your end-goal effectively and efficiently. Not only that, but we also believe in providing the best accounting services at minimized costs, allowing you to focus more on strengthening the core of your business."
+      ],
+      "solutionsSection": {
+        "title": "Our Impeccable Online Accounting Services",
+        "leftCol": [
+          {
+            "title": "General Accounting and Bookkeeping Services",
+            "desc": "It involves the preparation and maintenance of daily bookkeeping along with monthly, quarterly, and yearly accounts. Choosing us as your accounting bookkeeper would entitle you to the mentioned services: Write-up Services, Forensic Audit Services, Real Estate Accounting, Accounts Reconciliation Services, Financial Reporting, Financial Analysis for Banking Industry, Financial Analysis Services, Project Accounting Services, Virtual Accounting Services."
+          },
+          {
+            "title": "Preparation of Tax Returns",
+            "desc": "It specifically involves the preparation of sales tax, periodic tax along with other returns like filing Form 1040, Form 1040-ES, etc. for the US. We are also involved in facilitating almost everything related to taxation, tax planning, and tax filing. We take care of all the government and judiciary requirements when it comes to preparing tax returns, as we understand that such factors need to be served with diligence and maliciousness."
+          },
+          {
+            "title": "Payroll Services",
+            "desc": "Our payroll services include preparation of the employee salary statements, administering of commissions, calculation of bonus payments, timely rate calculation, etc. We are also involved in providing tailor-made payroll accounting services to organizations of any size. We at Support Help, always ensure that our clients never miss any payroll processing deadlines."
+          },
+          {
+            "title": "Debt Collection Services",
+            "desc": "We also provide necessary assistance for the recovery of debt, managing it, and providing legal solutions as per requirements."
+          }
+        ],
+        "rightCol": [
+          {
+            "title": "Payment to The Creditors",
+            "desc": "We assist our clients with payment transactions to creditors, though we leave the overall control specifically with the management."
+          },
+          {
+            "title": "Cash Handling Services",
+            "desc": "Our services also include providing assistance with treasury functions such as cash handling operations as well as monitoring interest charged and credit accounts."
+          },
+          {
+            "title": "E-Accounting Services",
+            "desc": "We have a lot of experience in this particular area and therefore, we can meritoriously guide you with the functions related to e-accounting."
+          },
+          {
+            "title": "Accounting Setup Services",
+            "desc": "With the help of our accounting setup services, you can easily achieve your business-related objectives, and why worry about this function, when we are here to assist you and make you feel at ease."
+          },
+          {
+            "title": "Cash Forecasting Services",
+            "desc": "It is one of the integral services that Support Help provides. This process involves an in-depth analysis of the cash requirements, planning and managing the existing resources, and forecasting cash requirements."
+          }
+        ]
+      },
+      "showcase1": {
+        "title": "E-Accounting Services",
+        "description": "Select services Catch up Services Migration services CFO Services Other Services Full Time accounting services Part time accounting services Ad hoc services",
+        "checklist": [
+          "Quicken",
+          "NetSuite Accounting",
+          "Peachtree",
+          "Simply Accounting",
+          "Sage Accounting",
+          "KashFlow (online accounting)",
+          "Epicor",
+          "Microsoft Navision",
+          "MYOB",
+          "QuickBooks (Online & Desktop)",
+          "Zoho Books",
+          "Xero"
+        ],
+        "note": "In addition to providing comprehensive services, we also focus on preparing thoughtful customized reports to help you analyze business performance.",
+        "image": "/services/accounting_img_1.jpg"
+      },
+      "showcase2": {
+        "title": "Benefits of Choosing Us For High-Quality Accounting Solutions",
+        "paragraphs": [
+          "We are continuously involved in providing top-tier bookkeeping and accounting services to clients across the globe to help them gain a competitive advantage.",
+          "Also, our services are very affordable; you can save up to 40% to 50% of your bookkeeping cost while freeing up valuable time to grow your business."
+        ],
+        "image": "/services/accounting_img_2.jpg"
+      },
+      "whySection": {
+        "title": "Why Opt for Our Business Accounting Services?",
+        "reasons": [
+          "Contact@Supporthelp.online",
+          "Preparation of Tax Returns It specifically involves the preparation of sales tax, periodic tax along with other returns like filing Form 1040, Form 1040-ES, etc. for the US. We are also involved in facilitating almost everything related to taxation, tax planning, and tax filing. We take care of all the government and judiciary requirements when it comes to preparing tax returns, as we understand that such factors need to be served with diligence and maliciousness.",
+          "Payment to The Creditors We assist our clients with payment transactions to creditors, though we leave the overall control specifically with the management.",
+          "We always make sure that all your financial data remains secure and confidential. This is the main reason why we make use of encrypted e-mails or FTP servers for downloading or uploading any client information.",
+          "You will always get tailor-made solutions with us depending on your unique business requirements."
+        ],
+        "closingNote": "Select services Catch up Services Migration services CFO Services Other Services Full Time accounting services Part time accounting services Ad hoc services"
+      }
+    },
+    "accounts-receivable": {
+      "slug": "accounts-receivable",
+      "heroTitle": "ACCOUNTS RECEIVABLE SERVICES",
+      "introParagraphs": [
+        "The accounts receivable outsourcing services of Support Help enables its customers to deal with their integral functions related to finance effortlessly. It impacts the cash flow which is considered to be crucial for maintaining a vibrant and strong business. We facilitate both improved cash flow and quicker payments with the help of our accounts receivable specialist within the deadlines."
+      ],
+      "solutionsSection": {
+        "title": "Our Affordable Account Receivable Solutions",
+        "leftCol": [
+          {
+            "title": "AR Aging Report Creation Services",
+            "desc": "We are involved in providing reliable and accurate AR or accounts receivable aging reports to our customers which aids them in better handling their customer payments. Our AR aging solutions allow you to specifically deal with the aging of the accounts receivable in your business. These particular services also include accepting online payments from your customers, sending automatic reminders, and offering early discounts to the customers who pay early."
+          },
+          {
+            "title": "Real Estate Accounts Receivable",
+            "desc": "For a real estate company, managing the accounts receivable can be a time taking task. In this regard, we tend to maintain an efficient accounts receivable process which will again ensure faster collection of the payments along with ensuring smooth cash flow. Our main focus is to ease the problems faced by real estate firms by ensuring improved collection rates, faster payment recovery, and quicker processing of invoices."
+          },
+          {
+            "title": "Accounts Receivable Factoring Services",
+            "desc": "Accounts receivable factoring is also known as receivable funding. Specifically, this business funding allows an organization to sell its outstanding receivables to a factoring company against a specific capital. We are a leading provider of accounts receivable factoring services certainly through our support functions. Our team can perform cash receipt collections, payment collections, data entry of the invoices, etc. for your smooth functioning."
+          },
+          {
+            "title": "Alerting You About Differences",
+            "desc": "We work hard to alert or escalate you about the differences found at the time of reconciling your specific records or accounts statements so that you can resolve the matter in no time."
+          }
+        ],
+        "rightCol": [
+          {
+            "title": "Creation of Invoices",
+            "desc": "We are involved in the creation of invoices for your business needs based on documentary evidence like sales order copies along with product or service delivery confirmations."
+          },
+          {
+            "title": "Preparation of Statements",
+            "desc": "Our expert team is involved in the preparation of important statements using proper analysis of project codes or programs and total cost per line item."
+          },
+          {
+            "title": "Preparation of Accounts Receivable Reports",
+            "desc": "We have been involved in the efficient preparation of accounts receivable reports with a faster turnaround time. This process is based on the analysis of accounts receivable from customers, various business segments, time-factor, etc."
+          },
+          {
+            "title": "Electronic Invoices Maintenance",
+            "desc": "One of our integral services involves proper maintenance of the electronic invoices by uploading them to your system. This process is conducted by electronic transmission and helps in fastening the process."
+          },
+          {
+            "title": "Updating of Accounts Receivable",
+            "desc": "Apart from reconciling the bank account credits, our main focus is to efficiently update the accounts receivable for collection."
+          },
+          {
+            "title": "Preparation of Cash Flow Summary",
+            "desc": "By making use of invoices, we prepare an up-to-date summary of the cash flow for the past and future years."
+          }
+        ]
+      },
+      "showcase1": {
+        "title": "Accounting Software Used by Us",
+        "description": "Select services Catch up Services Migration services CFO Services Other Services Full Time accounting services Part time accounting services Ad hoc services",
+        "checklist": [
+          "Quicken",
+          "NetSuite Accounting",
+          "Peachtree",
+          "Simply Accounting",
+          "Sage Accounting",
+          "KashFlow (online accounting)",
+          "Epicor",
+          "Microsoft Navision",
+          "MYOB",
+          "QuickBooks (Online & Desktop)",
+          "Zoho Books",
+          "Xero"
+        ],
+        "note": "In addition to providing comprehensive services, we also focus on preparing thoughtful customized reports to help you analyze business performance.",
+        "image": "/services/accounts-receivable_img_1.png"
+      },
+      "showcase2": {
+        "title": "Electronic Invoices Maintenance",
+        "paragraphs": [
+          "We are continuously involved in providing top-tier bookkeeping and accounting services to clients across the globe to help them gain a competitive advantage.",
+          "Also, our services are very affordable; you can save up to 40% to 50% of your bookkeeping cost while freeing up valuable time to grow your business."
+        ],
+        "image": "/services/accounts-receivable_img_2.png"
+      },
+      "whySection": {
+        "title": "Why Consider Us for Accounts Receivable Management Services?",
+        "reasons": [
+          "Contact@Supporthelp.online",
+          "Real Estate Accounts Receivable For a real estate company, managing the accounts receivable can be a time taking task. In this regard, we tend to maintain an efficient accounts receivable process which will again ensure faster collection of the payments along with ensuring smooth cash flow. Our main focus is to ease the problems faced by real estate firms by ensuring improved collection rates, faster payment recovery, and quicker processing of invoices.",
+          "Alerting You About Differences We work hard to alert or escalate you about the differences found at the time of reconciling your specific records or accounts statements so that you can resolve the matter in no time.",
+          "Creation of Invoices We are involved in the creation of invoices for your business needs based on documentary evidence like sales order copies along with product or service delivery confirmations.",
+          "Preparation of Statements Our expert team is involved in the preparation of important statements using proper analysis of project codes or programs and total cost per line item.",
+          "Preparation of Accounts Receivable Reports We have been involved in the efficient preparation of accounts receivable reports with a faster turnaround time. This process is based on the analysis of accounts receivable from customers, various business segments, time-factor, etc."
+        ],
+        "closingNote": "Select services Catch up Services Migration services CFO Services Other Services Full Time accounting services Part time accounting services Ad hoc services"
+      }
+    },
+    "accounts-payable": {
+      "slug": "accounts-payable",
+      "heroTitle": "ACCOUNTS PAYABLE SERVICES",
+      "introParagraphs": [
+        "In current times, companies have to effectively comply with the complex regulatory requirements. Based on specific business rules, the best accounting payable service automates the systems to attain better service levels, higher business intelligence, and lower processing costs with better control. The innovative and flexible accounts payable services provided by Support Help contribute to offering customers the wings to transform their traditional payable system to a modern and advanced one."
+      ],
+      "solutionsSection": {
+        "title": "Our Accounts Payable Solutions",
+        "leftCol": [
+          {
+            "title": "Accounting System’s Updates",
+            "desc": "We are involved in providing the services related to the accounting system’s updates specifically through purchase orders, evidence regarding goods or services receipt, and invoices from the suppliers."
+          },
+          {
+            "title": "Invoice Processing Services",
+            "desc": "Our invoice processing services specifically include verification as well as approval of bills from suppliers after cross-checking with goods or service receipts, along with purchase orders."
+          },
+          {
+            "title": "Escalation or Alerts for Instances",
+            "desc": "Our expert team provides quality services related to Incorrect computation of the supplier bills, vendor purchase orders which do not effectively match the supplier bills, specifically checking evidence of services or goods delivered against supplier bills, analyzing acceptance/denial of services or goods delivered by un-authorized individuals, issue of purchase orders without authority or budget."
+          },
+          {
+            "title": "Other Accounts Payable Outsourcing Services",
+            "desc": "Some of the other accounts payable outsourcing which is mainly provided by us includes utility bill management, travel expenses processing, reporting of tax, supplier management, special project reports, customer service, etc."
+          }
+        ],
+        "rightCol": [
+          {
+            "title": "Data Capture",
+            "desc": "We are involved in providing the best data capture services which include batch preparation, sorting, document indexing, scanning, receiving, and processing of incoming mail, document storage, retrieval, reconciliation, and audit of scanned invoices as well as 100% availability of those scanned invoices."
+          },
+          {
+            "title": "Data Processing",
+            "desc": "Our expert service providers are involved in providing the data processing services which are related to exception management or resolution. It includes approval and also exception routing, documented audit trail as well as shortened month-end closing process."
+          },
+          {
+            "title": "Disbursement Services",
+            "desc": "The following disbursement services are mainly provided by our end including, printing as well as the distribution of checks, secured maintenance of the check stocks, check to proof (online), return check handling, proper handling of electronic payments, special handling of invoice mails and a lot more."
+          }
+        ]
+      },
+      "showcase1": {
+        "title": "Disbursement Services",
+        "description": "Select services Catch up Services Migration services CFO Services Other Services Full Time accounting services Part time accounting services Ad hoc services",
+        "checklist": [
+          "Quicken",
+          "NetSuite Accounting",
+          "Peachtree",
+          "Simply Accounting",
+          "Sage Accounting",
+          "KashFlow (online accounting)",
+          "Epicor",
+          "Microsoft Navision",
+          "MYOB",
+          "QuickBooks (Online & Desktop)",
+          "Zoho Books",
+          "Xero"
+        ],
+        "note": "In addition to providing comprehensive services, we also focus on preparing thoughtful customized reports to help you analyze business performance.",
+        "image": "/services/accounts-payable_img_1.png"
+      },
+      "showcase2": {
+        "title": "Why is Accounts Payable Services Essential?",
+        "paragraphs": [
+          "We are continuously involved in providing top-tier bookkeeping and accounting services to clients across the globe to help them gain a competitive advantage.",
+          "Also, our services are very affordable; you can save up to 40% to 50% of your bookkeeping cost while freeing up valuable time to grow your business."
+        ],
+        "image": "/services/accounts-payable_img_2.png"
+      },
+      "whySection": {
+        "title": "Advantages of Opting for Our Accounts Payable Specialist",
+        "reasons": [
+          "We focus on maintaining higher standards in terms of business ethics.",
+          "We possess a lot of experience in providing services to clients around the world.",
+          "Our qualified resources and strong infrastructural setup ensure quality delivery to our clients.",
+          "All of our services are reasonably priced.",
+          "Our experts are proficient in providing various types of bookkeeping solutions.",
+          "To ensure direct quality each time, we strictly stick to the best industry practices and standards."
+        ],
+        "closingNote": "Select services Catch up Services Migration services CFO Services Other Services Full Time accounting services Part time accounting services Ad hoc services"
+      }
+    },
+    "payroll-management": {
+      "slug": "payroll-management",
+      "heroTitle": "PAYROLL MANAGEMENT SERVICES",
+      "introParagraphs": [
+        "Every business has to process the salary for their employees in a timely and accurate manner; it is considered to be a very complicated task. This is because it involves consideration of several factors such as loan advances, reimbursements, leaves along with many other dynamic HR inputs. In addition to that, it also involves proper management of different salary structures and complies with the statutory and tax regulations. In this case, one of the best options for you is to consider outsourcing payroll management."
+      ],
+      "solutionsSection": {
+        "title": "Our Complete Payroll Solutions",
+        "leftCol": [
+          {
+            "title": "Payroll Processing",
+            "desc": "Based on the specific inputs we receive from your end, we efficiently maintain monthly payroll processing along with mastering the integral data."
+          },
+          {
+            "title": "Output Reports",
+            "desc": "We also provide you with different output reports based on the requirements of the management and employees."
+          },
+          {
+            "title": "Investment Proof Collection Activities",
+            "desc": "Our main goal is to perform certain activities that are specifically required for collection as well as inspection of investment proof at each year's end."
+          },
+          {
+            "title": "Registration of Your Company",
+            "desc": "We are also involved in interacting with the authorities with reference to your company registration matters, labor welfare, income tax, ESIC, provident fund, professional tax."
+          }
+        ],
+        "rightCol": [
+          {
+            "title": "Statutory Returns",
+            "desc": "Our experts always focus on the preparation and submission of all statutory returns with the government authorities according to the requirements."
+          },
+          {
+            "title": "Finance Reporting Management",
+            "desc": "Support Help also takes care of proper management of financial reporting, balances, usage, accrual calculations along with the approval of the employee leaves."
+          },
+          {
+            "title": "Reimbursement Management",
+            "desc": "We have a lot of experience in managing reimbursement against expenses such as balance computation, reporting, an inspection of documents, approval, and also claim submissions."
+          },
+          {
+            "title": "Employee Self Service or ESS",
+            "desc": "As a part of the ESS, we are inclined towards providing online technology for employees so that they can view salary slips, decide FBP, submit IT declarations, and resolve their doubts."
+          }
+        ]
+      },
+      "showcase1": {
+        "title": "What Software We Mainly Use For the Payroll Management?",
+        "description": "We are all in one solution for all your needs, contact us today and avail the best Payroll management services from Support Help.",
+        "checklist": [
+          "Quicken",
+          "NetSuite Accounting",
+          "Peachtree",
+          "Simply Accounting",
+          "Sage Accounting",
+          "KashFlow (online accounting)",
+          "Epicor",
+          "Microsoft Navision",
+          "MYOB",
+          "QuickBooks (Online & Desktop)",
+          "Zoho Books",
+          "Xero"
+        ],
+        "note": "Select services Catch up Services Migration services CFO Services Other Services Full Time accounting services Part time accounting services Ad hoc services",
+        "image": "/services/payroll-management_img_1.jpg"
+      },
+      "showcase2": {
+        "title": "Benefits of Opting for Our Online Payroll Services",
+        "paragraphs": [
+          "We are continuously involved in providing top-tier bookkeeping and accounting services to clients across the globe to help them gain a competitive advantage.",
+          "Also, our services are very affordable; you can save up to 40% to 50% of your bookkeeping cost while freeing up valuable time to grow your business."
+        ],
+        "image": "/services/payroll-management_img_2.jpg"
+      },
+      "whySection": {
+        "title": "Why Choose Our Specialists/Experts As Your Payroll Service Provider?",
+        "reasons": [
+          "Contact@Supporthelp.online",
+          "Payroll Processing Based on the specific inputs we receive from your end, we efficiently maintain monthly payroll processing along with mastering the integral data.",
+          "Output Reports We also provide you with different output reports based on the requirements of the management and employees.",
+          "Investment Proof Collection Activities Our main goal is to perform certain activities that are specifically required for collection as well as inspection of investment proof at each year's end.",
+          "Registration of Your Company We are also involved in interacting with the authorities with reference to your company registration matters, labor welfare, income tax, ESIC, provident fund, professional tax.",
+          "Statutory Returns Our experts always focus on the preparation and submission of all statutory returns with the government authorities according to the requirements."
+        ],
+        "closingNote": "Select services Catch up Services Migration services CFO Services Other Services Full Time accounting services Part time accounting services Ad hoc services"
+      }
+    },
+    "cleanup-catchup-work": {
+      "slug": "cleanup-catchup-work",
+      "heroTitle": "CLEANUP AND CATCH UP SERVICES",
+      "introParagraphs": [
+        "A lot of times, it becomes difficult for new businesses to catch up with the bookkeeping process as it can be a lengthy and time-consuming task. Keeping the books updated does not always rank as the top priority, but in the long run, it is very crucial. We at Support Help focus on helping small businesses to speed this process by maintaining the clean-up or catch-up of their bookkeeping work."
+      ],
+      "solutionsSection": {
+        "title": "Our Bookkeeping Clean Up and Catch Up Solutions",
+        "leftCol": [
+          {
+            "title": "Credit Cards and Bank Accounts",
+            "desc": "We are involved in doing coding and reconciliation of all credit card and bank accounts for the periods you request."
+          },
+          {
+            "title": "Tax Preparation",
+            "desc": "At Support Help, we tend to provide an informed quote for filing fees and tax preparation."
+          },
+          {
+            "title": "QuickBooks",
+            "desc": "Our experts provide you with recommendations regarding how you can use QuickBooks, Zoho Books, or any other third-party apps. This helps to streamline your monthly accounting processes."
+          }
+        ],
+        "rightCol": [
+          {
+            "title": "Large Purchases Analysis",
+            "desc": "We properly analyze the large purchases for potential depreciation deductions."
+          },
+          {
+            "title": "Business Health Analysis",
+            "desc": "Our skilled professionals analyze the health of your business that is benchmarked against other similar companies."
+          },
+          {
+            "title": "Year-End Financial Statements",
+            "desc": "We maintain a full set of Year-End Financial Statements, which include cash flow statements, balance sheets, and profit and loss statements."
+          }
+        ]
+      },
+      "showcase1": {
+        "title": "Set-Up, Cleanup and Maintain Bookkeeping",
+        "description": "We are proficient with all major software used in the industry for accounting and bookkeeping services.",
+        "checklist": [
+          "Quicken",
+          "NetSuite Accounting",
+          "Peachtree",
+          "Simply Accounting",
+          "Sage Accounting",
+          "KashFlow (online accounting)",
+          "Epicor",
+          "Microsoft Navision",
+          "MYOB",
+          "QuickBooks (Online & Desktop)",
+          "Zoho Books",
+          "Xero"
+        ],
+        "note": "In addition to providing comprehensive services, we also focus on preparing thoughtful customized reports to help you analyze business performance.",
+        "image": "/services/cleanup-catchup-work_img_1.png"
+      },
+      "showcase2": {
+        "title": "What is Included in Our Services?",
+        "paragraphs": [
+          "We are continuously involved in providing top-tier bookkeeping and accounting services to clients across the globe to help them gain a competitive advantage.",
+          "Also, our services are very affordable; you can save up to 40% to 50% of your bookkeeping cost while freeing up valuable time to grow your business."
+        ],
+        "image": "/services/cleanup-catchup-work_img_2.png"
+      },
+      "whySection": {
+        "title": "What is Included in Our Services?",
+        "reasons": [
+          "Contact@Supporthelp.online",
+          "Credit Cards and Bank Accounts We are involved in doing coding and reconciliation of all credit card and bank accounts for the periods you request.",
+          "Tax Preparation At Support Help, we tend to provide an informed quote for filing fees and tax preparation.",
+          "QuickBooks Our experts provide you with recommendations regarding how you can use QuickBooks, Zoho Books, or any other third-party apps. This helps to streamline your monthly accounting processes.",
+          "Large Purchases Analysis We properly analyze the large purchases for potential depreciation deductions.",
+          "Business Health Analysis Our skilled professionals analyze the health of your business that is benchmarked against other similar companies."
+        ],
+        "closingNote": "Select services Catch up Services Migration services CFO Services Other Services Full Time accounting services Part time accounting services Ad hoc services"
+      }
+    },
+    "financial-reporting": {
+      "slug": "financial-reporting",
+      "heroTitle": "FINANCIAL REPORTING SERVICES",
+      "introParagraphs": [
+        "Efficiency and accuracy specifically in the case of financial reporting are considered to be significant aspects for every organization. This aspect helps them to gain a competitive advantage. The overall process of financial reporting and analysis includes the preparation of various types of reports. Not only that, but it also involves a proper analysis of data to determine the company’s financial health. Support Help is known to be a well-known outsourcing provider when it comes to financial reporting services."
+      ],
+      "solutionsSection": {
+        "title": "Our Outsourced Financial Reporting and Analysis Services",
+        "leftCol": [
+          {
+            "title": "General Ledger Accounting",
+            "desc": "We always ensure that all the account entries punched are accurate. It eventually leads to an efficient accounting process. The main general ledger accounting services offered by us include payroll journals processing, ledger accounting, ledger reconciliations, disposal and depreciation journal maintenance, processing of adjustment journals and stock movement, period-end closure of books, mergers and acquisitions processing of purchase, lease, dividend, and loan journals; overall details of adjustments done for ledger journal entries, adjustments that pertain to accruals and prepayments."
+          },
+          {
+            "title": "Accounts Reconciliation Services",
+            "desc": "We always ensure that the bank statements meticulously comply with the accounting as well as internal bookkeeping records. This eliminates any potential chances of errors in accounting, financial, and management reports. Also, our accounts reconciliation service will authentically provide you a proper understanding of the financial position of your company."
+          }
+        ],
+        "rightCol": [
+          {
+            "title": "Cash Flow Management Services",
+            "desc": "We contribute to reduce the gaps that exist between the inflow and outflow of cash. The process helps your company in financial planning through the preparation of projections along with conducting budget forecasts. Choosing Support Help will allow you to manage your business cash flows in a comprehensive and accurate manner. After all, knowing where your business stands financially is a necessity."
+          },
+          {
+            "title": "Trial Balance Preparation",
+            "desc": "We are involved in the preparation of a trial balance for your company at the end of every reporting period. The main purpose behind it is to ensure that all the entries in the bookkeeping system of your company are correct in terms of data and calculation."
+          },
+          {
+            "title": "Bookkeeping Services",
+            "desc": "We are involved in providing the best bookkeeping services which include inventory recording analysis, financial statements preparation, accounts reconciliation, general bookkeeping, and a lot more."
+          },
+          {
+            "title": "Revenue Management and Recovery",
+            "desc": "Our highly trained accounting experts contribute to identifying missing or inaccurate documents. Not only that but they are also involved in the instant fixing of any certain issues. This can further averse to the situation of delayed payments. You would be equipped to utilize our outbound call center services to accelerate the payment of your business’ receivables. Also, you can increase the ROI of your organization with the help of our smooth revenue management and recovery system."
+          }
+        ]
+      },
+      "showcase1": {
+        "title": "Why Opt for Financial Reporting Services?",
+        "description": "We always adhere to the Generally Accepted Accounting Principles (GAAP) and all the other necessary regulatory rules and regulations.",
+        "checklist": [
+          "Quicken",
+          "NetSuite Accounting",
+          "Peachtree",
+          "Simply Accounting",
+          "Sage Accounting",
+          "KashFlow (online accounting)",
+          "Epicor",
+          "Microsoft Navision",
+          "MYOB",
+          "QuickBooks (Online & Desktop)",
+          "Zoho Books",
+          "Xero"
+        ],
+        "note": "We remain updated on all the new practices and software so that we can deliver results generated through the latest procedures and technology to our clients.",
+        "image": "/services/financial-reporting_img_1.png"
+      },
+      "showcase2": {
+        "title": "Benefits of Hiring Our Financial Reporting Analyst/Manager",
+        "paragraphs": [
+          "With the help of our up-to-date and rapid communication facility, you will always get the best services delivered with efficiency, flexibility, and transparency.",
+          "Our main focus is on data confidentiality and security. So, whenever you outsource your financial reporting projects to us, we ensure that your data remains completely protected. As a result, you would never have to stress about the data breaches and the loss of valuable information."
+        ],
+        "image": "/services/financial-reporting_img_2.png"
+      },
+      "whySection": {
+        "title": "Why Opt for Financial Reporting Services?",
+        "reasons": [
+          "Contact@Supporthelp.online",
+          "Effective saving of time involved in the preparation and analysis of financial reports",
+          "Error-free and accurate data analysis",
+          "Efficient and improved decision making",
+          "Installation of costly financial reporting software becomes obviate and saves costs"
+        ],
+        "closingNote": "Select services Catch up Services Migration services CFO Services Other Services Full Time accounting services Part time accounting services Ad hoc services"
+      }
+    },
+    "cpa-firms": {
+      "slug": "cpa-firms",
+      "heroTitle": "ACCOUNTING SERVICES FOR CPA FIRMS",
+      "introParagraphs": [
+        "As a CPA firm, you would be familiar with the concept of maintaining books of accounting and the huge efforts required to do so! It is indeed time taking and complex in nature; it also requires higher administrative expenses to perform the task. That’s when the role of outsourcing CPA comes into the picture, and eventually, it saves you valuable time and costs. Support Help is committed to providing the best bookkeeping services, specifically in the functional areas like accounting services , sales and use tax preparation, write-up services, financial statements preparation, and income tax preparation, too."
+      ],
+      "solutionsSection": {
+        "title": "Our Accounting and Bookkeeping Services for CPAs and EAs",
+        "leftCol": [
+          {
+            "title": "CPA Write-Up Services",
+            "desc": "Write-up services are considered to be an integral part of the financial process for any organization. Your information associated with accounting remains transparent with the help of efficient write-up services. Therefore, it is an essential task for any CPA firm. We at Support Help take due care in taking and maintaining inputs for the functions like accounts reconciliation, accounts receivables, general ledger entries, etc."
+          },
+          {
+            "title": "CPA Accounting Services",
+            "desc": "We understand that with the progress of your business, your accounting requirements rise, too, and that comes with the tag of hiked costs to follow the accounting necessities. Outsourcing services can benefit you hereby saving your time and finance. Our team of experts ensures proper and accurate maintenance and updating of your accounts. We utilize various accounting software like NetSuite, QuickBooks, Zoho Books, Quicken, Peachtree, Intuit, and Sage. In addition to that, we also accommodate you with the option of choosing the preferred software that you want us to work with. Choosing services of Support Help will advance you with a one-stop solution for all your unique accounting and bookkeeping requirements."
+          }
+        ],
+        "rightCol": [
+          {
+            "title": "General Bookkeeping Services for CPA Firms",
+            "desc": "Many of the businesses lack in resources required to maintain the bookkeeping operations efficiently. Though, do not worry, as we are always ready to devour in helping you with diverse and accurate bookkeeping services. All you have to do is send us the required scanned financial statements through email or else you can upload them to an FTP server. Our experts will handle your needs from there and would provide you with the best bookkeeping results while you focus on your organization’s progress. What more you can ask for?"
+          },
+          {
+            "title": "Financial Statement Preparation Services",
+            "desc": "Financial statements are a mirror to showcase how a business performs for a particular period of time. Though, the process to prepare these statements is highly time and effort-consuming. Thus, opting for outsourcing this task falls in your favor; our bookkeeping services include effective preparation of the financial statements like Cash Flow, Profit & Loss, and Balance Sheet statements. Not only that, but our qualified experts also take the utmost care to the specific changes occurring in financial and accounting standards. As a result, you save time and have up-to-date financial statements within deadlines."
+          }
+        ]
+      },
+      "showcase1": {
+        "title": "CPA Write-Up Services",
+        "description": "We are proficient with all major software used in the industry for accounting and bookkeeping services.",
+        "checklist": [
+          "Quicken",
+          "NetSuite Accounting",
+          "Peachtree",
+          "Simply Accounting",
+          "Sage Accounting",
+          "KashFlow (online accounting)",
+          "Epicor",
+          "Microsoft Navision",
+          "MYOB",
+          "QuickBooks (Online & Desktop)",
+          "Zoho Books",
+          "Xero"
+        ],
+        "note": "In addition to providing comprehensive services, we also focus on preparing thoughtful customized reports to help you analyze business performance.",
+        "image": "/services/cpa-firms_img_1.png"
+      },
+      "showcase2": {
+        "title": "Benefits of Opting for Our Services",
+        "paragraphs": [
+          "We are continuously involved in providing top-tier bookkeeping and accounting services to clients across the globe to help them gain a competitive advantage.",
+          "Also, our services are very affordable; you can save up to 40% to 50% of your bookkeeping cost while freeing up valuable time to grow your business."
+        ],
+        "image": "/services/cpa-firms_img_2.png"
+      },
+      "whySection": {
+        "title": "Why opt for Our Services?",
+        "reasons": [
+          "Contact@Supporthelp.online",
+          "Providing proper assistance for making integral decisions through analysis using critical and complex financial data.",
+          "Updated accounting solutions as we provide continuous training to our employees to make sure that they learn about the latest accounting software and changed standards.",
+          "Outsourcing to us will provide you with cost benefits. You can expand your business without any worries; no need to hire expensive in-house staff for looking after accounting chores.",
+          "We have a fast turnaround time which ensures smooth and rapid delivery of outcomes at your door.",
+          "Providing flexibilities and customization to accommodate your requirements; depending on your needs, we also change our practices to give you a higher level of satisfaction."
+        ],
+        "closingNote": "Select services Catch up Services Migration services CFO Services Other Services Full Time accounting services Part time accounting services Ad hoc services"
+      }
+    },
+    "virtual-accountant-bookkeeper": {
+      "slug": "virtual-accountant-bookkeeper",
+      "heroTitle": "VIRTUAL BOOKKEEPING AND ACCOUNTING",
+      "introParagraphs": [
+        "In addition to that, we provide our clients with secure online storage to integrate financial information, and as a result, you will be able to collaborate, share and synchronize both folders and files across mobile devices and desktop computers."
+      ],
+      "solutionsSection": {
+        "title": "Our Professional Virtual Accounting and Bookkeeping Services",
+        "leftCol": [
+          {
+            "title": "Bookkeeping",
+            "desc": "We are involved in offering virtual bookkeeping services to our clients and that too at affordable pricing. We are available anytime you would be requiring us to pay additional attention to your needs. Our vast range of services will take care of all your requirements from tax preparation to filing them; we have got you covered."
+          },
+          {
+            "title": "Accounts Receivable",
+            "desc": "Whenever you outsource your accounts receivable services to us, we will efficiently keep a track of the invoices along with their processing times. This effectively helps to reduce collection times, increases the rates of timely payment along with optimizing all the necessary processes. Partnering with Support Help will ensure that your company gets access to all needed resources along with expert manpower which will efficiently help you in the collection of outstanding payments."
+          },
+          {
+            "title": "Accounts Payable",
+            "desc": "We are inclined towards providing the best accounts payable services to our clients. Our deep understanding of our client's needs in different industries helps us to serve them in the best way possible. Also, our services are considered to be flexible, cost-efficient, quick to implement, and reliable, developed through the integration of different technologies."
+          },
+          {
+            "title": "Financial Statements",
+            "desc": "We have many years of experience in working with several businesses; our main focus is to offer them the accurate financial statement preparation services that involve balance sheets, income statements, fund flow statements, stockholders’ equity statements, cash flow statements, and a lot more. Our expert professionals have the specialized qualification to take care of this prospect of your business."
+          },
+          {
+            "title": "Inventory Management",
+            "desc": "We are involved in providing the best inventory management services to our clients that include inventory forecasting, warehouse management, supply chain planning, and sourcing. In this way, we can help in the simplification of the overall order replenishment process."
+          }
+        ],
+        "rightCol": [
+          {
+            "title": "Payroll Services",
+            "desc": "Support Help is a leading payroll service provider involved in providing the best online payroll services. Our customized services contribute to increasing the quality of reports. Along with that, it helps in the improvement in overall payroll tax calculation accuracy. Our services include timely payroll tax calculation, payroll accounting, payslip generation, retrospective pay calculation, direct deposit, paycheques printing, or direct deposit of a paycheque."
+          },
+          {
+            "title": "Cash Flow Management",
+            "desc": "Managing and updating the cash flows are considered to be important aspects for a business to understand its liquidity and take important decisions related to finance. We provide the best cash flow management services to our clients and ease their work."
+          },
+          {
+            "title": "Tax Return Preparation",
+            "desc": "We tend to offer outsourced tax return preparation services to a lot of businesses. It takes off the burden of doing complicated calculations from our clients and they can focus on the core matters of their business."
+          },
+          {
+            "title": "Management Accounts",
+            "desc": "Our expert team of Management Accountants specifically focuses on providing the best services that involve planning, budgeting, and also forecasting. Not only that, every month, we are also involved in providing you with up-to-date and accurate financial records. Choosing us would ensure you with error-free solutions and better decision-making power."
+          },
+          {
+            "title": "Business Activity Statements",
+            "desc": "At Support Help, we are involved in preparing business activity statements for our clients for making their process easier. It includes WET or Wine equalization tax, flue tax credits, Fringe benefits tax or FBT installment, luxury car tax or LCT, PAYG or Pay as you go tax withheld, PAYG or Pay as you go income tax installment, and a lot more."
+          }
+        ]
+      },
+      "showcase1": {
+        "title": "Cash Flow Management",
+        "description": "We are proficient with all major software used in the industry for accounting and bookkeeping services.",
+        "checklist": [
+          "Quicken",
+          "NetSuite Accounting",
+          "Peachtree",
+          "Simply Accounting",
+          "Sage Accounting",
+          "KashFlow (online accounting)",
+          "Epicor",
+          "Microsoft Navision",
+          "MYOB",
+          "QuickBooks (Online & Desktop)",
+          "Zoho Books",
+          "Xero"
+        ],
+        "note": "In addition to providing comprehensive services, we also focus on preparing thoughtful customized reports to help you analyze business performance.",
+        "image": "/services/virtual-accountant-bookkeeper_img_1.png"
+      },
+      "showcase2": {
+        "title": "Benefits of Virtual Accounting and Bookkeeping Services",
+        "paragraphs": [
+          "We are continuously involved in providing top-tier bookkeeping and accounting services to clients across the globe to help them gain a competitive advantage.",
+          "Also, our services are very affordable; you can save up to 40% to 50% of your bookkeeping cost while freeing up valuable time to grow your business."
+        ],
+        "image": "/services/virtual-accountant-bookkeeper_img_2.png"
+      },
+      "whySection": {
+        "title": "Why Opt for Our Virtual Bookkeeping Services?",
+        "reasons": [
+          "Contact@Supporthelp.online",
+          "Business Activity Statements At Support Help, we are involved in preparing business activity statements for our clients for making their process easier. It includes WET or Wine equalization tax, flue tax credits, Fringe benefits tax or FBT installment, luxury car tax or LCT, PAYG or Pay as you go tax withheld, PAYG or Pay as you go income tax installment, and a lot more.",
+          "No Administrative Overheads",
+          "No Concerns Related to Software",
+          "Work Done on A 24/7 Cross-Basis: You can always enjoy 24/7 access to our virtual accountants with the help of your preferred communication mode like a call, chat, or email.",
+          "Confidentiality and Complete Security of Data: Whenever you start working on a specific project, our bookkeepers will be involved in signing an NDA with you. As a result, you do not have to worry about the confidentiality and security of data. We are safe, secure, and authenticated."
+        ],
+        "closingNote": "Select services Catch up Services Migration services CFO Services Other Services Full Time accounting services Part time accounting services Ad hoc services"
+      }
+    },
+    "back-office-operations": {
+      "slug": "back-office-operations",
+      "heroTitle": "BACK OFFICE OPERATIONS",
+      "introParagraphs": [
+        "Owning a business is considered to be very challenging, in addition to that, specifically looking after a full-time accounting department requires a good amount of time and adequate resources. Though, you do not have to worry about this complex functionality, as our expert accounting professionals can perform as your back office, and would be more than happy to help you execute the daily tasks with ease and a faster turnaround time."
+      ],
+      "solutionsSection": {
+        "title": "We Provide A Wide Range Of Back Office Accounting Services",
+        "leftCol": [
+          {
+            "title": "Technology Solutions",
+            "desc": "We are involved in providing the best technology solutions by building and executing effective technology strategies. Again, these strategies tend to reduce your operational costs, improve the processes, and thereby, increasing customer and employee satisfaction. Support Help takes pride in being able to provide the best subject matter advice, along with the applications needed for the effective running of an organization, i.e. various accounting software, cyber security consulting, networking, etc."
+          },
+          {
+            "title": "Family Office",
+            "desc": "Now, you can spend your time on the aspects that matter the most for your business. We are involved in offering a wide range of services which includes long-term planning and day-to-day finances. In addition to that, we also offer tax, wealth management, and family management services that address all your worries and eliminate them in one go. Our motto is to help you build and maintain your family business legacy and achieve your dreams."
+          },
+          {
+            "title": "Outsourced Payroll Services",
+            "desc": "With the help of our best services, you can reduce both the time spent on tedious work along with the need for expensive in-house staffing. We also streamline your payroll process and simplify the overall administration. Our expert professionals help in managing the time taking payroll tax filing and payroll processing. As a result, you can focus on the revenue-generating and value-added activities of your business."
+          },
+          {
+            "title": "HR Consulting And Outsourcing",
+            "desc": "We are inclined towards providing the best Human Resource or HR consulting services which include HR support and a help desk. So, with the help of our services, you can get a high level of human resources for your business. Our certified human resources consultants possess many years of experience in this field. As a result, you no longer have to go through the long process of advertising the requirements, going through resumes, filtering out candidates, and personally interview them; we are here to save your precious time and help you build your empire."
+          },
+          {
+            "title": "Outsourced Accounting, Finance, and Fund Administration Services",
+            "desc": "With the help of our best finance, accounting, and fund administration services, you do not have to worry about the back-office functions. As a result, you can shift your focus to maximizing your capital value. Our expert team of professionals will assist you in administering your funds efficiently. They provide you with the best accounting and finance solutions according to your unique needs. We manage your back-office functions that involve but not are exhausted to investor database maintenance, capital tracking, investor reporting, fund accounting along with communications, etc."
+          },
+          {
+            "title": "General Ledger Management",
+            "desc": "In the case of a specific business, it becomes very important to maintain an up-to-date and accurate general ledger which helps in the generation and preparation of timely and accurate financial statements. As a result, our process includes monthly reconciliation, reviewing the integral general ledger accounts along with providing and implementing almost any sort of changes to the ledger accounts."
+          }
+        ],
+        "rightCol": [
+          {
+            "title": "Cash Management And Cash Reconciliations Functions",
+            "desc": "Depending on the unique needs related to your business, our experts are involved in providing updated cash flow forecasts and analysis along with accurate cash reconciliations. This helps to ensure that your business has an adequate level of cash flow as well as cash on hands for daily functionality."
+          },
+          {
+            "title": "Accounts Receivable Management",
+            "desc": "Our expert professionals are also involved in management, tracking, and handling almost every need that is related to the accounts receivable. Therefore, we can effectively handle all of your accounts receivable needs including cash collection, cash deposits, and processing of the payments."
+          },
+          {
+            "title": "Accounts Payable And Disbursement Management",
+            "desc": "Our main focus is to perfectly handle your account payable items based on your unique needs. As a result, we provide time-saving accounts payable as well as disbursement services that cater to payables management, application of invoices, and vendor payments."
+          },
+          {
+            "title": "Fixed Asset Management",
+            "desc": "We understand that a proper and accurate reflection of all the fixed assets of your business holds the utmost importance. Apart from tax purposes, it is also essential for financial statements. Our professional team is involved in an in-depth analysis of assets for eliminating any differences existing due to the depreciable lives or deductibility for Generally Accepted Accounting Principles (GAAP.) We also guide you with proper management of depreciation expenses and accumulated depreciation of your business assets for tax purposes and preparing accurate financial statements."
+          },
+          {
+            "title": "Financial Statements and Financial Performance Indicators",
+            "desc": "Our expert professions are involved in providing your business with a complete financial package specifically crafted for your accounting system. This financial package will include income statements, balance sheets, along performance-related management ratios and analysis. We are also involved in making use of efficient technology for the dashboard and integral performance indicator reporting. This helps in the generation of financial ratios, and other business analyses rapidly and accurately. We at Support Help ensure that your business is effectively run and managed."
+          }
+        ]
+      },
+      "showcase1": {
+        "title": "Cash Management And Cash Reconciliations Functions",
+        "description": "Select services Catch up Services Migration services CFO Services Other Services Full Time accounting services Part time accounting services Ad hoc services",
+        "checklist": [
+          "Quicken",
+          "NetSuite Accounting",
+          "Peachtree",
+          "Simply Accounting",
+          "Sage Accounting",
+          "KashFlow (online accounting)",
+          "Epicor",
+          "Microsoft Navision",
+          "MYOB",
+          "QuickBooks (Online & Desktop)",
+          "Zoho Books",
+          "Xero"
+        ],
+        "note": "In addition to providing comprehensive services, we also focus on preparing thoughtful customized reports to help you analyze business performance.",
+        "image": "/services/back-office-operations_img_1.png"
+      },
+      "showcase2": {
+        "title": "Accounts Receivable Management",
+        "paragraphs": [
+          "We are continuously involved in providing top-tier bookkeeping and accounting services to clients across the globe to help them gain a competitive advantage.",
+          "Also, our services are very affordable; you can save up to 40% to 50% of your bookkeeping cost while freeing up valuable time to grow your business."
+        ],
+        "image": "/services/back-office-operations_img_2.png"
+      },
+      "whySection": {
+        "title": "We Have Separated the Back Office Accounting Services into Three Categories",
+        "reasons": [
+          "Contact@Supporthelp.online",
+          "Technology Solutions We are involved in providing the best technology solutions by building and executing effective technology strategies. Again, these strategies tend to reduce your operational costs, improve the processes, and thereby, increasing customer and employee satisfaction. Support Help takes pride in being able to provide the best subject matter advice, along with the applications needed for the effective running of an organization, i.e. various accounting software, cyber security consulting, networking, etc.",
+          "General Ledger Management In the case of a specific business, it becomes very important to maintain an up-to-date and accurate general ledger which helps in the generation and preparation of timely and accurate financial statements. As a result, our process includes monthly reconciliation, reviewing the integral general ledger accounts along with providing and implementing almost any sort of changes to the ledger accounts.",
+          "Cash Management And Cash Reconciliations Functions Depending on the unique needs related to your business, our experts are involved in providing updated cash flow forecasts and analysis along with accurate cash reconciliations. This helps to ensure that your business has an adequate level of cash flow as well as cash on hands for daily functionality.",
+          "Accounts Receivable Management Our expert professionals are also involved in management, tracking, and handling almost every need that is related to the accounts receivable. Therefore, we can effectively handle all of your accounts receivable needs including cash collection, cash deposits, and processing of the payments.",
+          "Fixed Asset Management We understand that a proper and accurate reflection of all the fixed assets of your business holds the utmost importance. Apart from tax purposes, it is also essential for financial statements. Our professional team is involved in an in-depth analysis of assets for eliminating any differences existing due to the depreciable lives or deductibility for Generally Accepted Accounting Principles (GAAP.) We also guide you with proper management of depreciation expenses and accumulated depreciation of your business assets for tax purposes and preparing accurate financial statements."
+        ],
+        "closingNote": "Select services Catch up Services Migration services CFO Services Other Services Full Time accounting services Part time accounting services Ad hoc services"
+      }
+    },
+    "para-planning-services": {
+      "slug": "para-planning-services",
+      "heroTitle": "PARAPLANNING SERVICES",
+      "introParagraphs": [
+        "We at Support Help understand that it is not an easy task to run a Financial Advisory Business as it requires a considerable amount of time, effort, and money. As a result, there can be some shortcomings and tight timelines for serving clients along with growing your business. But worry not as we have a solution for you! By outsourcing your work to Support Help, you can focus on your clients, work on the formulation of a high-level strategy, and increase your goodwill along with Asset Management capabilities."
+      ],
+      "solutionsSection": {
+        "title": "Our ParaPlanning Services for Financial Advisors",
+        "leftCol": [
+          {
+            "title": "Portfolio Analysis",
+            "desc": "We make use of different tools to efficiently analyze portfolios for our clients. These tools include Morningstar, Riskalyze, Wealthscape, Orion, Schwab, Valueline, etc."
+          },
+          {
+            "title": "Periodic Reporting",
+            "desc": "Our experts prepare the Monthly/Quarterly transaction plotter reports for our clients, and also provide the services of timely newsletters. It ultimately delivers crucial insights regarding the current economic scenario to the clients."
+          },
+          {
+            "title": "Financial Planning",
+            "desc": "We work on different financial planning aspects including Cash flow analysis, Net worth analysis, Retirement analysis/projections (Savings & RMD’s), Budgeting and strategic recommendations to reduce debt, Estate recommendations (Will, POA, HCD), Insurance analysis (Life, DI & LTC), Education Planning (529 and Coverdell)."
+          },
+          {
+            "title": "Executive Assistant Functions",
+            "desc": "At Support Help, we send out emails to the clients or service their requests regarding the Change of address, New account, generating tax forms, Rollover, TOD, and much more to ease their process and reduce the burden."
+          }
+        ],
+        "rightCol": [
+          {
+            "title": "Advisor Assistance",
+            "desc": "We communicate to the business partners for any important updates or requests through emails to ensure that there is clarity and transparency in the process."
+          },
+          {
+            "title": "Social Media",
+            "desc": "We understand the importance and thus help in managing the social media aspects of our clients including LinkedIn, Facebook, Instagram, and Twitter."
+          },
+          {
+            "title": "Software Utilized",
+            "desc": "For the proper management of our clients’ work, we make use of different software like MoneyGuidePro, e-Money, Navi Plan, Right Capital, Family Law software, etc."
+          }
+        ]
+      },
+      "showcase1": {
+        "title": "Software Utilized",
+        "description": "We are proficient with all major software used in the industry for accounting and bookkeeping services.",
+        "checklist": [
+          "Quicken",
+          "NetSuite Accounting",
+          "Peachtree",
+          "Simply Accounting",
+          "Sage Accounting",
+          "KashFlow (online accounting)",
+          "Epicor",
+          "Microsoft Navision",
+          "MYOB",
+          "QuickBooks (Online & Desktop)",
+          "Zoho Books",
+          "Xero"
+        ],
+        "note": "In addition to providing comprehensive services, we also focus on preparing thoughtful customized reports to help you analyze business performance.",
+        "image": "/services/para-planning-services_img_1.png"
+      },
+      "showcase2": {
+        "title": "Key Benefits of Hiring ParaPlanners",
+        "paragraphs": [
+          "We are continuously involved in providing top-tier bookkeeping and accounting services to clients across the globe to help them gain a competitive advantage.",
+          "Also, our services are very affordable; you can save up to 40% to 50% of your bookkeeping cost while freeing up valuable time to grow your business."
+        ],
+        "image": "/services/para-planning-services_img_2.png"
+      },
+      "whySection": {
+        "title": "Why Are Our ParaPlanning Services Best in the Industry?",
+        "reasons": [
+          "Contact@Supporthelp.online",
+          "Portfolio Analysis We make use of different tools to efficiently analyze portfolios for our clients. These tools include Morningstar, Riskalyze, Wealthscape, Orion, Schwab, Valueline, etc.",
+          "Financial Planning We work on different financial planning aspects including Cash flow analysis, Net worth analysis, Retirement analysis/projections (Savings & RMD’s), Budgeting and strategic recommendations to reduce debt, Estate recommendations (Will, POA, HCD), Insurance analysis (Life, DI & LTC), Education Planning (529 and Coverdell).",
+          "Executive Assistant Functions At Support Help, we send out emails to the clients or service their requests regarding the Change of address, New account, generating tax forms, Rollover, TOD, and much more to ease their process and reduce the burden.",
+          "Advisor Assistance We communicate to the business partners for any important updates or requests through emails to ensure that there is clarity and transparency in the process.",
+          "Social Media We understand the importance and thus help in managing the social media aspects of our clients including LinkedIn, Facebook, Instagram, and Twitter."
+        ],
+        "closingNote": "Select services Catch up Services Migration services CFO Services Other Services Full Time accounting services Part time accounting services Ad hoc services"
+      }
+    },
+    "migration-services": {
+      "slug": "migration-services",
+      "heroTitle": "ACCOUNTING SOFTWARE MIGRATION SERVICES",
+      "introParagraphs": [
+        "Data migration is an essential aspect of switching systems for businesses that are completely novice as well as to existing users of accounting software when it comes to opting for new software. As a business owner, you must be wanting to know easy ways to transfer your data, right? Well, we at Support Help, are here to help you."
+      ],
+      "solutionsSection": {
+        "title": "Our Accounting Data and System Migration Services",
+        "leftCol": [
+          {
+            "title": "Customized Migration",
+            "desc": "We tend to offer customized migration plans that specify risk mitigation measures, timelines, and essential resources requirements."
+          },
+          {
+            "title": "Expedited Services",
+            "desc": "Our expedited services are designated for the major events or urgent needs of our clients. This helps them to efficiently plan, build, and execute a transition to new data centers or the cloud."
+          },
+          {
+            "title": "Time Tested Methodology",
+            "desc": "We, at Support Help, always offer a time-tested methodology for migrating with zero to minimal disruption in your business. We support modernization efforts and business growth."
+          }
+        ],
+        "rightCol": [
+          {
+            "title": "Cloud Migration Services",
+            "desc": "Our best cloud migration services help to accelerate transformation so that you can take complete advantage of the cloud resources."
+          },
+          {
+            "title": "Proprietary Processes and Tools",
+            "desc": "We work to save our clients money, time, and excess inputs with the help of proprietary processes and tools."
+          },
+          {
+            "title": "Workload Assessment",
+            "desc": "Our expert team is proficient in the workload assessment of the clients. Also, they have a lot of expertise in application dependency mapping that ultimately helps in the success and growth of their business."
+          }
+        ]
+      },
+      "showcase1": {
+        "title": "How can Accounting System Migrations Make a Difference in Your Business?",
+        "description": "We are proficient with all major software used in the industry for accounting and bookkeeping services.",
+        "checklist": [
+          "Quicken",
+          "NetSuite Accounting",
+          "Peachtree",
+          "Simply Accounting",
+          "Sage Accounting",
+          "KashFlow (online accounting)",
+          "Epicor",
+          "Microsoft Navision",
+          "MYOB",
+          "QuickBooks (Online & Desktop)",
+          "Zoho Books",
+          "Xero"
+        ],
+        "note": "In addition to providing comprehensive services, we also focus on preparing thoughtful customized reports to help you analyze business performance.",
+        "image": "/services/migration-services_img_1.png"
+      },
+      "showcase2": {
+        "title": "Why Opt for Our Migration Services?",
+        "paragraphs": [
+          "We are continuously involved in providing top-tier bookkeeping and accounting services to clients across the globe to help them gain a competitive advantage.",
+          "Also, our services are very affordable; you can save up to 40% to 50% of your bookkeeping cost while freeing up valuable time to grow your business."
+        ],
+        "image": "/services/migration-services_img_2.png"
+      },
+      "whySection": {
+        "title": "Why Opt for Our Migration Services?",
+        "reasons": [
+          "Contact@Supporthelp.online",
+          "Customized Migration We tend to offer customized migration plans that specify risk mitigation measures, timelines, and essential resources requirements.",
+          "Time Tested Methodology We, at Support Help, always offer a time-tested methodology for migrating with zero to minimal disruption in your business. We support modernization efforts and business growth.",
+          "Proprietary Processes and Tools We work to save our clients money, time, and excess inputs with the help of proprietary processes and tools.",
+          "Workload Assessment Our expert team is proficient in the workload assessment of the clients. Also, they have a lot of expertise in application dependency mapping that ultimately helps in the success and growth of their business.",
+          "Our professional experts provide you with unbiased advice and support."
+        ],
+        "closingNote": "Select services Catch up Services Migration services CFO Services Other Services Full Time accounting services Part time accounting services Ad hoc services"
+      }
+    },
+    "quickbooks-to-zoho-books-migration": {
+      "slug": "quickbooks-to-zoho-books-migration",
+      "heroTitle": "QUICKBOOKS TO ZOHO BOOKS MIGRATION AND INTEGRATION",
+      "introParagraphs": [
+        "Since the announcement of Intuit QuickBooks India ceasing its operations from January 31 st , 2023, many companies are migrating from QuickBooks to Zoho Books , and if you’re one of them, this article will provide you with much-needed insight into the process."
+      ],
+      "solutionsSection": {
+        "title": "Our Online quickbooks to zoho books migration Services",
+        "leftCol": [],
+        "rightCol": []
+      },
+      "showcase1": {
+        "title": "Accounting Software Used by Support Help",
+        "description": "Mr. Sridhar Vembu, CEO of ZOHO Corporation is a Padma Shri award winner!",
+        "checklist": [
+          "Quicken",
+          "NetSuite Accounting",
+          "Peachtree",
+          "Simply Accounting",
+          "Sage Accounting",
+          "KashFlow (online accounting)",
+          "Epicor",
+          "Microsoft Navision",
+          "MYOB",
+          "QuickBooks (Online & Desktop)",
+          "Zoho Books",
+          "Xero"
+        ],
+        "note": "When you employ excellent software like Zoho Books , everything gets simplified, from payroll to taxes to community contributions and net profit management.",
+        "image": "/services/bookkeeping_img_1.jpg"
+      },
+      "showcase2": {
+        "title": "Benefits of Opting for Our Services",
+        "paragraphs": [
+          "When the accounting department needs rapid assistance, a trustworthy answer must be offered right away. And, here comes Zoho Books to the rescue.",
+          "If you’re reviewing your choices to see what sort of software would work best for your firm, there are a few things to think about, especially if you’re still using QuickBooks."
+        ],
+        "image": "/services/bookkeeping_img_2.jpg"
+      },
+      "whySection": {
+        "title": "Why Consider Support Help Services for Migration Purposes?",
+        "reasons": [
+          "Contact@Supporthelp.online",
+          "Zoho Books setup and training",
+          "Virtual Accounting & Bookkeeping",
+          "GST, TDS Filing& Returns",
+          "Tax and Statutory Audits",
+          "What Is Zoho Books Used For? Features, Benefits & Use Cases (2026)"
+        ],
+        "closingNote": "Select services Catch up Services Migration services CFO Services Other Services Full Time accounting services Part time accounting services Ad hoc services"
+      }
+    }
+  }
+}

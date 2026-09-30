@@ -29,6 +29,9 @@ export class Blog extends Document {
   @Prop({ required: true, trim: true })
   title: string;
 
+  @Prop({ trim: true, default: '' })
+  subtitle?: string;
+
   @Prop({ required: true, unique: true, lowercase: true, trim: true, index: true })
   slug: string;
 
@@ -78,6 +81,58 @@ export class Blog extends Document {
 
   @Prop({ type: [String], default: [] })
   metaKeywords: string[];
+
+  // --- SEO & Content Suite Enhancements ---
+  @Prop({ trim: true, default: '' })
+  imageAltText?: string;
+
+  @Prop({
+    type: MongooseSchema.Types.Mixed,
+    default: () => ({ enabled: false, items: [] }),
+  })
+  tableOfContents?: {
+    enabled: boolean;
+    items: Array<{ id: string; title: string; level?: number }>;
+  };
+
+  @Prop({ type: [MongooseSchema.Types.Mixed], default: [] })
+  internalLinks?: Array<{ text: string; url: string }>;
+
+  @Prop({ type: [MongooseSchema.Types.Mixed], default: [] })
+  externalLinks?: Array<{ text: string; url: string; rel?: string }>;
+
+  @Prop({ trim: true, default: '' })
+  schemaMarkup?: string;
+
+  @Prop({ trim: true, default: '' })
+  ogTitle?: string;
+
+  @Prop({ trim: true, default: '' })
+  ogDescription?: string;
+
+  @Prop({ trim: true, default: null })
+  ogImage?: string;
+
+  @Prop({ trim: true, default: 'summary_large_image' })
+  twitterCard?: string;
+
+  @Prop({ trim: true, default: '' })
+  canonicalUrl?: string;
+
+  @Prop({ default: true })
+  isRobotsIndex: boolean;
+
+  @Prop({ default: true })
+  isRobotsFollow: boolean;
+
+  @Prop({ default: true })
+  includeInSitemap: boolean;
+
+  @Prop({ default: 0.8 })
+  sitemapPriority: number;
+
+  @Prop({ trim: true, default: 'weekly' })
+  sitemapChangeFreq: string;
 }
 
 export const BlogSchema = SchemaFactory.createForClass(Blog);

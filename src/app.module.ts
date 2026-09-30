@@ -12,6 +12,7 @@ import { BlogsModule } from './modules/blogs/blogs.module';
 import { TestimonialsModule } from './modules/testimonials/testimonials.module';
 import { NewsletterModule } from './modules/newsletter/newsletter.module';
 import { SettingsModule } from './modules/settings/settings.module';
+import { SocialLinksModule } from './modules/social-links/social-links.module';
 import { AuditLogsModule } from './modules/audit-logs/audit-logs.module';
 
 @Module({
@@ -41,6 +42,7 @@ import { AuditLogsModule } from './modules/audit-logs/audit-logs.module';
     TestimonialsModule,
     NewsletterModule,
     SettingsModule,
+    SocialLinksModule,
     AuditLogsModule,
   ],
   controllers: [],

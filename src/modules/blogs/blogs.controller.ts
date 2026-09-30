@@ -32,6 +32,11 @@ export class BlogsController {
     return this.blogsService.findAll({ search, category, status, page, limit });
   }
 
+  @Get('seo/sitemap')
+  async getSitemap() {
+    return this.blogsService.getSitemapData();
+  }
+
   @Get(':identifier')
   async findOne(@Param('identifier') identifier: string) {
     return this.blogsService.findOne(identifier);
